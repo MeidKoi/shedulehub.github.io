@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: VkSans;
+}
+
+.main{
+    width: 375px;
+    height: 812px;
+    background: linear-gradient(180deg, #0074FF -46.49%, #A3CDFF 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
