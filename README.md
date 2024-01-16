@@ -16,5 +16,13 @@
 
 # Cкриншоты
 
-<img src="./Screens/Начальный_экран.png ">
-<img src="./Screens/Начальный_экран(1).png">
+<table>
+  <tr>
+    <td><img src="./Screens/Начальный_экран.png"></td>
+    <td><img src="./Screens/Начальный_экран(1).png"></td>
+  </tr>
+  <tr>
+    <td><img src="./Screens/Личный_кабинет.png"></td>
+    <td><img src="./Screens/Главный_экран.png"></td>
+  </tr>
+</table>
