@@ -17,4 +17,4 @@
 # Cкриншоты
 
 <img src="./Screens/Начальный_экран.png ">
-<img src="./Screens/Начальный_экран(1).png" align=right>
+<img src="./Screens/Начальный_экран(1).png">
